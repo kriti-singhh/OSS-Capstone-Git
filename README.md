@@ -1,11 +1,10 @@
 # OSS-Capstone-Git
 Open Source Software Project — Git Analysis and Shell Scripts
-# Open Source Audit — Git
 
 ## 👤 Student Details
 
 **Name:** Kriti Singh
-**Roll Number:** 24BEY10136
+**Registration Number:** 24BEY10136
 
 ---
 
@@ -17,7 +16,7 @@ It also includes 5 shell scripts demonstrating practical Linux and scripting con
 
 ---
 
-## 🛠️ Software Used
+##  Software Used
 
 * Git
 * Linux (Ubuntu 22.04 / Online Bash Environment)
@@ -89,14 +88,14 @@ Takes user input and generates a personalized manifesto file.
 
 ---
 
-## ⚠️ Notes
+##  Notes
 
 * Scripts were tested using an online Linux bash environment.
 * Make sure scripts have execution permission before running.
 
 ---
 
-## 📊 Conclusion
+##  Conclusion
 
 Git is a powerful open-source tool widely used in software development. This project demonstrates both theoretical understanding and practical implementation using shell scripting.
 
