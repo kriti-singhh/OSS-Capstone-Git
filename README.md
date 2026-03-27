@@ -1,9 +1,10 @@
-# OSS-Capstone-Git
+# OSS-Audit-24BEY10136
 Open Source Software Project — Git Analysis and Shell Scripts
 
 ## 👤 Student Details
 
 **Name:** Kriti Singh
+
 **Registration Number:** 24BEY10136
 
 ---
